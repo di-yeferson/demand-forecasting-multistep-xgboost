@@ -1,0 +1,6 @@
+estrategia,mae_unidades,rmse_unidades,mape_pct,r2
+Directa (XGBoost),659.17,927.32,2.235,0.979
+DirRec (XGBoost),732.78,1043.14,2.479,0.974
+Recursiva (XGBoost 1-paso),724.20,1060.29,2.510,0.973
+Salida multiple (Regresion Lineal),1228.32,1671.97,4.457,0.932
+Baseline ingenuo (semana anterior),1270.90,2306.70,4.557,0.870
